@@ -5,7 +5,7 @@ import './add-contact-page.html';
 import './add-contact-page.js';
 
 import './edit-contact-page.html';
-import './edit-contact-page.html-contact-page.js';
+import './edit-contact-page.js';
 
 import './edit-stuff-page.html';
 import './edit-stuff-page.js';
